@@ -1,4 +1,5 @@
- ### Olá!, como a maioria dos dev's sigo o paradigma COP (Caffeine Oriented Programming)
+ ### Olá !!
+ Meu dia a dia esta ligado ao paradigma COP (Caffeine Oriented Programming)☕
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-ap-ribeiro-da-silva-07914427/)
 
