@@ -1,8 +1,10 @@
- ### Olá !!
- Meu dia a dia esta ligado ao paradigma COP (Caffeine Oriented Programming)☕
-
+### COP (CAFFEINE ORIENTED PROGRAMMING)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-ap-ribeiro-da-silva-07914427/)
 
+#### Learning
+<div style="display: inline_block">
+    <img align="center" alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" />
+</div>
 
 <div style="display: inline_block">
 <img align="center" height="150em"src="https://github-readme-stats.vercel.app/api?username=robsonapsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,9 +12,14 @@
 
 </div>
 
-## Tecnologias que tenho utilizado recentemente!
-
+#### Stack 
 <div style="display: inline_block">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img align="center" alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />   
+    <img align="center" alt="Spring" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />     
+    <img align="center" alt="Cucumber" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" />
+    <img align="center" alt="Jenkins" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+    <img align="center" alt="Kubernetes" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
+    <img align="center" alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+    <img align="center" alt="AWS" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+    <img align="center" alt="GCP" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
 </div>
