@@ -1,10 +1,6 @@
 ### COP (CAFFEINE ORIENTED PROGRAMMING)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-ap-ribeiro-da-silva-07914427/)
 
-#### Learning
-<div style="display: inline_block">
-    <img align="center" alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" />
-</div>
 
 <div style="display: inline_block">
 <img align="center" height="150em"src="https://github-readme-stats.vercel.app/api?username=robsonapsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
