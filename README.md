@@ -4,8 +4,7 @@
 
 <div style="display: inline_block">
 <img align="center" height="150em"src="https://github-readme-stats.vercel.app/api?username=robsonapsilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonapsilva&layout=compact&theme=dark"/>
-
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonapsilva&layout=compact&&card_width=250&theme=dark"/>
 </div>
 
 #### Stack 
